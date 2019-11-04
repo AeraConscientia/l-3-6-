@@ -185,7 +185,7 @@ namespace l_3__6_
             listBox_Rub.Font    = new Font("Microsoft Sans Serif", trackBar_Font.Value);
             listBox_Gold.Font   = new Font("Microsoft Sans Serif", trackBar_Font.Value);
         }
-
+         
         private void button_About_Click(object sender, EventArgs e)
         {
             AboutBox1 about = new AboutBox1();
